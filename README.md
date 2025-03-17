@@ -9,7 +9,7 @@ This repository contains resources and scripts related to *Prompt Engineering*, 
 The repository is divided into three parts, each covering different aspects of prompt engineering:  
 
 
-Prompt-Engineering/
+```Prompt-Engineering/
 │-- PART 1/
 │   ├── Prompt_engineering_Part_1.ipynb
 │   ├── prompt_engineering_part_1.py
@@ -20,7 +20,7 @@ Prompt-Engineering/
 │   ├── Prompt_engineering_Part_3.ipynb
 │   ├── prompt_engineering_part_3.py
 │-- README.md
-
+```
 
 ### 📁 *PART 1: Introduction to Prompt Engineering*  
 - Prompt_engineering_Part_1.ipynb: Jupyter notebook covering the basics of prompt engineering.  
